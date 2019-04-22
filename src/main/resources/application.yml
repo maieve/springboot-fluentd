@@ -1,0 +1,7 @@
+fluentd:
+  host: 127.0.0.1
+  port: 24224
+  tag: test.test
+ 
+server:
+  port: 80
